@@ -1,3 +1,3 @@
 #!/bin/bash -x
 
-echo "my first program update"
+echo "my first program update V2"
